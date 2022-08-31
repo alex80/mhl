@@ -18,7 +18,7 @@
 
 [Дистрибутив MyHomeLib 2.3.3.829](https://alex80.github.io/mhl/download/myhomelib.zip)
 
-[Обновление MyHomeLib 2.3.3.836](https://alex80.github.io/mhl/download/update_2.3.3.836.zip)
+[Обновление MyHomeLib 2.3.3.838](https://alex80.github.io/mhl/download/update_2.3.3.838.zip)
 
 [Обновление библиотек OpenSSL 1.0.2u](https://github.com/IndySockets/OpenSSL-Binaries/blob/master/openssl-1.0.2u-i386-win32.zip)
 
@@ -28,6 +28,10 @@
 Версия INPX для Либрусека: **2022-06-19**
 
 ## Новости
+### 2022-08-31
+* Добавлена версия MHL 2.3.3.838
+  * На странице поиска в список "Дата" добавлен выбор "за 2 дня"
+
 ### 2022-06-20
 * Загружено полное обновление библиотек Флибуста и Либрусек по состоянию на 2022-06-19.
   * Для Флибусты по умолчанию установлен адрес TOR v3
