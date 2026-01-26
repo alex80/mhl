@@ -14,7 +14,7 @@
   * Настроено создание и обновление библиотек с сайта alex80.github.io
 
 #### Отдельные компоненты
-[Список жанров от 2022-04-28](https://alex80.github.io/mhl/download/genres_fb2.glst)
+[Список жанров от 2026-01-26](https://alex80.github.io/mhl/download/genres_fb2.glst)
 
 [Дистрибутив MyHomeLib 2.3.3.829](https://alex80.github.io/mhl/download/myhomelib.zip)
 
